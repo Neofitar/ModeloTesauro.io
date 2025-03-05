@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
         categoryFilters.innerHTML = "";
 
         categories.forEach(category => createCategoryButton(category));
-        createCategoryButton("Mostrar Todo", true);
+        createCategoryButton("Mostrar todo", true);
     }
 
     function createCategoryButton(category, isAll = false) {

@@ -125,6 +125,7 @@ header {
 /* Contenedor de metadatos siempre abajo */
 .meta-container {
   margin-top: auto;
+  margin-left: 10px;
 }
 
 /* Temática y Categoría con tamaño menor y alineación a la izquierda */
@@ -141,7 +142,7 @@ header {
   flex-wrap: wrap;
   justify-content: center;
   padding: 12px;
-  gap: 8px;
+  gap: 10px;
   width: 90%;
   max-width: 1000px;
   margin: 0 auto 20px;
@@ -173,26 +174,4 @@ header {
 .category-button.active {
   background: #00aaff;
   font-weight: bold;
-}
-
-/* Footer */
-footer {
-  text-align: center;
-  padding: 20px;
-  background-color: #08192d;
-  color: white;
-}
-
-/* Responsive para pantallas pequeñas */
-@media (max-width: 600px) {
-  #categoryFilters {
-    justify-content: flex-start;
-    overflow-x: auto;
-    white-space: nowrap;
-  }
-
-  .category-button {
-    flex: none;
-    min-width: auto;
-  }
 }
