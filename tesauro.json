@@ -1,0 +1,260 @@
+[
+    {
+        "descriptor": "Agua",
+        "codigo": "AR",
+        "categoria": "Conceptos y contextos",
+        "tematica": "AMBIENTE"
+    },
+    {
+        "descriptor": "Agua residual",
+        "codigo": "AR",
+        "categoria": "Conceptos y contextos",
+        "tematica": "AMBIENTE"
+    },
+    {
+        "descriptor": "Aire",
+        "codigo": "AR",
+        "categoria": "Conceptos y contextos",
+        "tematica": "AMBIENTE"
+    },
+    {
+        "descriptor": "Bodegas de reciclaje",
+        "codigo": "AR",
+        "categoria": "Reciclaje",
+        "tematica": "AMBIENTE"
+    },
+    {
+        "descriptor": "Actividad de tiempo libre",
+        "codigo": "C",
+        "categoria": "Deporte",
+        "tematica": "CULTURA"
+    },
+    {
+        "descriptor": "Actividad religiosa",
+        "codigo": "C",
+        "categoria": "Religión",
+        "tematica": "CULTURA"
+    },
+    {
+        "descriptor": "Actividades culturales",
+        "codigo": "C",
+        "categoria": "Cultura",
+        "tematica": "CULTURA"
+    },
+    {
+        "descriptor": "Actores sociales",
+        "codigo": "C",
+        "categoria": "Comunicación",
+        "tematica": "CULTURA"
+    },
+    {
+        "descriptor": "Aprendizaje en línea",
+        "codigo": "C",
+        "categoria": "Comunicación",
+        "tematica": "CULTURA"
+    },
+    {
+        "descriptor": "Aproximaciones teóricas",
+        "codigo": "C",
+        "categoria": "Comunicación",
+        "tematica": "CULTURA"
+    },
+    {
+        "descriptor": "Acta de reunión",
+        "codigo": "CO",
+        "categoria": "Cultura organizacional",
+        "tematica": "CULTURA ORGANIZACIONAL"
+    },
+    {
+        "descriptor": "Actitud laboral",
+        "codigo": "CO",
+        "categoria": "Cultura organizacional",
+        "tematica": "CULTURA ORGANIZACIONAL"
+    },
+    {
+        "descriptor": "Ambiente de trabajo",
+        "codigo": "CO",
+        "categoria": "Cultura organizacional",
+        "tematica": "CULTURA ORGANIZACIONAL"
+    },
+    {
+        "descriptor": "Beneficios complementarios",
+        "codigo": "CO",
+        "categoria": "Cultura organizacional",
+        "tematica": "CULTURA ORGANIZACIONAL"
+    },
+    {
+        "descriptor": "Bienestar de personal",
+        "codigo": "CO",
+        "categoria": "Cultura organizacional",
+        "tematica": "CULTURA ORGANIZACIONAL"
+    },
+    {
+        "descriptor": "Calidad de la vida laboral",
+        "codigo": "CO",
+        "categoria": "Cultura organizacional",
+        "tematica": "CULTURA ORGANIZACIONAL"
+    },
+    {
+        "descriptor": "Capacitación de personal",
+        "codigo": "CO",
+        "categoria": "Cultura organizacional",
+        "tematica": "CULTURA ORGANIZACIONAL"
+    },
+    {
+        "descriptor": "Características directivas",
+        "codigo": "CO",
+        "categoria": "Cultura organizacional",
+        "tematica": "CULTURA ORGANIZACIONAL"
+    },
+    {
+        "descriptor": "Clima laboral",
+        "codigo": "CO",
+        "categoria": "Cultura organizacional",
+        "tematica": "CULTURA ORGANIZACIONAL"
+    },
+    {
+        "descriptor": "Colaborador",
+        "codigo": "CO",
+        "categoria": "Cultura organizacional",
+        "tematica": "CULTURA ORGANIZACIONAL"
+    },
+    {
+        "descriptor": "Competencia profesional",
+        "codigo": "CO",
+        "categoria": "Cultura organizacional",
+        "tematica": "CULTURA ORGANIZACIONAL"
+    },
+    {
+        "descriptor": "Comunicación interna",
+        "codigo": "CO",
+        "categoria": "Cultura organizacional",
+        "tematica": "CULTURA ORGANIZACIONAL"
+    },
+    {
+        "descriptor": "Contextos históricos y temporales en los que nacen y operan los procesos de desarrollo y superación de la pobreza",
+        "codigo": "DP",
+        "categoria": "Conceptos y contextos",
+        "tematica": "DESARROLLO Y POBREZA"
+    },
+    {
+        "descriptor": "Convergencia de sectores y poblaciones alrededor del desarrollo de un territorio",
+        "codigo": "DP",
+        "categoria": "Territorios",
+        "tematica": "DESARROLLO Y POBREZA"
+    },
+    {
+        "descriptor": "Definiciones y conceptos sobre desarrollo: Estructuralismo",
+        "codigo": "DP",
+        "categoria": "Conceptos y contextos",
+        "tematica": "DESARROLLO Y POBREZA"
+    },
+    {
+        "descriptor": "Desarrollo",
+        "codigo": "DP",
+        "categoria": "Conceptos y contextos",
+        "tematica": "DESARROLLO Y POBREZA"
+    },
+    {
+        "descriptor": "Desarrollo comunitario",
+        "codigo": "DP",
+        "categoria": "Conceptos y contextos",
+        "tematica": "DESARROLLO Y POBREZA"
+    },
+    {
+        "descriptor": "Desarrollo humano",
+        "codigo": "DP",
+        "categoria": "Conceptos y contextos",
+        "tematica": "DESARROLLO Y POBREZA"
+    },
+    {
+        "descriptor": "Desarrollo local",
+        "codigo": "DP",
+        "categoria": "Territorios",
+        "tematica": "DESARROLLO Y POBREZA"
+    },
+    {
+        "descriptor": "Desarrollo municipal",
+        "codigo": "DP",
+        "categoria": "Territorios",
+        "tematica": "DESARROLLO Y POBREZA"
+    },
+    {
+        "descriptor": "Actividad de tiempo libre",
+        "codigo": "EE",
+        "categoria": "Turismo",
+        "tematica": "ECONOMÍA Y EMPRESA"
+    },
+    {
+        "descriptor": "Actividades deportivas y recreativas",
+        "codigo": "EE",
+        "categoria": "Turismo",
+        "tematica": "ECONOMÍA Y EMPRESA"
+    },
+    {
+        "descriptor": "Administración financiera",
+        "codigo": "EE",
+        "categoria": "Finanzas",
+        "tematica": "ECONOMÍA Y EMPRESA"
+    },
+    {
+        "descriptor": "Agricultura de subsistencia",
+        "codigo": "EE",
+        "categoria": "Conceptos y contextos",
+        "tematica": "ECONOMÍA Y EMPRESA"
+    },
+    {
+        "descriptor": "Ahorro",
+        "codigo": "EE",
+        "categoria": "Finanzas",
+        "tematica": "ECONOMÍA Y EMPRESA"
+    },
+    {
+        "descriptor": "Alojamiento",
+        "codigo": "EE",
+        "categoria": "Turismo",
+        "tematica": "ECONOMÍA Y EMPRESA"
+    },
+    {
+        "descriptor": "Artes textiles",
+        "codigo": "EE",
+        "categoria": "Conceptos y contextos",
+        "tematica": "ECONOMÍA Y EMPRESA"
+    },
+    {
+        "descriptor": "Aproximaciones teóricas. Valores",
+        "codigo": "E",
+        "categoria": "Etica",
+        "tematica": "ÉTICA"
+    },
+    {
+        "descriptor": "Bautizo",
+        "codigo": "E",
+        "categoria": "Vida sacramental",
+        "tematica": "ÉTICA"
+    },
+    {
+        "descriptor": "Bien común",
+        "codigo": "E",
+        "categoria": "Etica",
+        "tematica": "ÉTICA"
+    },
+    {
+        "descriptor": "Catolicismo",
+        "codigo": "E",
+        "categoria": "Etica",
+        "tematica": "ÉTICA"
+    },
+    {
+        "descriptor": "Comunión",
+        "codigo": "E",
+        "categoria": "Vida sacramental",
+        "tematica": "ÉTICA"
+    },
+    {
+        "descriptor": "Confirmación",
+        "codigo": "E",
+        "categoria": "Vida sacramental",
+        "tematica": "ÉTICA"
+    }
+]
