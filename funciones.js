@@ -56,14 +56,14 @@ document.addEventListener("DOMContentLoaded", () => {
                 <div class="term">
                     <h3>${item.descriptor}</h3>
                     <div class="meta-container">
-                        <p class="meta">Temática: ${item.tematica} | ${item.codigo}</p>
-                        <p class="meta">Categoría: ${item.categoria}</p>
+                        <p class="meta"><strong>Temática:</strong> ${item.tematica} | ${item.codigo}</p>
+                        <p class="meta"><strong>Categoría:</strong> ${item.categoria}</p>
                     </div>
                 </div>`;
         });
     }
 
-    // Ejecutar búsqueda con el botón o el input
+    // Ejecutar búsqueda con el input
     function executeSearch() {
         search(searchInput.value.toLowerCase());
     }

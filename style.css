@@ -20,21 +20,21 @@ header {
   position: relative;
 }
 
-
-/* Contenedor del buscador */
+/* Contenedor de búsqueda */
 .search-container {
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
+  margin-top: 15px;
   gap: 10px;
-  margin: 20px auto;
-  width: 90%;
-  max-width: 650px;
+  margin-bottom: 15px;
+
 }
 
 /* Input de búsqueda */
 #searchInput {
-  flex: 1;
+  width: 100%;
+  max-width: 700px;
   padding: 12px;
   font-size: 16px;
   border: 2px solid #3a7ca5;
@@ -51,27 +51,19 @@ header {
   outline: 2px solid #00aaff;
 }
 
-
-/* Input de búsqueda */
-#searchInput {
-  display: block;
-  width: 90%;
-  max-width: 450px;
-  margin: 20px auto;
-  padding: 12px;
+/* Botón de búsqueda */
+#searchButton {
+  background: #04375e;
+  border: none;
+  padding: 12px 14px;
   font-size: 16px;
-  border: 2px solid #3a7ca5;
-  border-radius: 25px;
-  background-color: #ffffff;
-  color: #04375e;
-  text-align: center;
-  transition: 0.3s ease;
-  box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background 0.3s ease;
 }
 
-#searchInput:focus {
-  background-color: #e3f2fd;
-  outline: 2px solid #00aaff;
+#searchButton:hover {
+  background-color: #00aaff;
 }
 
 /* Panel principal */
@@ -84,7 +76,7 @@ header {
   padding: 20px;
 }
 
-/* Área de términos en tarjetas */
+/* Área de términos */
 #thesaurus {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -101,34 +93,23 @@ header {
   border-left: 6px solid #00aaff;
   border-radius: 10px;
   padding: 15px;
-  margin-bottom: 15px;
   transition: all 0.3s ease;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-  min-height: 120px;
   border: 2px solid #539fce;
-}
-
-.term h3 {
-  margin: 0;
-  color: #04375e;
-  font-size: 18px;
-  padding-left: 10px;
 }
 
 .term:hover {
   transform: translateY(-3px);
-  box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.15);
   background: #f0f8ff;
   border-left: 6px solid #0077cc;
 }
 
-/* Contenedor de metadatos siempre abajo */
+/* Contenedor de metadatos */
 .meta-container {
   margin-top: auto;
   margin-left: 10px;
 }
 
-/* Temática y Categoría con tamaño menor y alineación a la izquierda */
 .term .meta {
   font-size: 14px;
   color: #666;
@@ -136,7 +117,18 @@ header {
   margin: 5px 0 0;
 }
 
-/* Barra de navegación (Responsive) */
+.term H3 {
+  margin-left: 10px;
+
+}
+
+/* Categorías */
+
+nav {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 #categoryFilters {
   display: flex;
   flex-wrap: wrap;
@@ -151,7 +143,6 @@ header {
   scrollbar-width: none;
 }
 
-/* Botones de categorías del mismo tamaño */
 .category-button {
   flex: 1;
   background: #04375e;
@@ -164,14 +155,10 @@ header {
   transition: all 0.3s ease;
   text-align: center;
   white-space: nowrap;
+  text-transform: uppercase;
 }
 
-.category-button:hover {
-  background: #00aaff;
-  color: white;
-}
-
-.category-button.active {
+.category-button:hover, .category-button.active {
   background: #00aaff;
   font-weight: bold;
 }
