@@ -57,7 +57,6 @@ document.addEventListener("DOMContentLoaded", () => {
                     <h3>${item.descriptor}</h3>
                     <div class="meta-container">
                         <p class="meta"><strong>Temática:</strong> ${item.tematica} | ${item.codigo}</p>
-                        <p class="meta"><strong>Categoría:</strong> ${item.categoria}</p>
                     </div>
                 </div>`;
         });
