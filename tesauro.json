@@ -1,260 +1,5510 @@
 [
     {
+        "descriptor": "Abastecimiento de agua",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
         "descriptor": "Agua",
         "codigo": "AR",
-        "categoria": "Conceptos y contextos",
+        "origen": "UNESCO",
         "tematica": "Ambiente"
     },
     {
         "descriptor": "Agua residual",
         "codigo": "AR",
-        "categoria": "Conceptos y contextos",
+        "origen": "UNESCO",
         "tematica": "Ambiente"
     },
     {
-        "descriptor": "Aire",
+        "descriptor": "Amenaza natural",
         "codigo": "AR",
-        "categoria": "Conceptos y contextos",
+        "origen": "UNESCO",
         "tematica": "Ambiente"
     },
     {
-        "descriptor": "Bodegas de reciclaje",
+        "descriptor": "Bosque",
         "codigo": "AR",
-        "categoria": "Reciclaje",
+        "origen": "UNESCO",
         "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Calidad del agua",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Cambios climático",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Conservación ambiental",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Conservación de la naturaleza",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Conservación del suelo",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Contaminación",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Contaminación atmosférica",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Contaminación del agua",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Contaminación del suelo",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Contaminación industrial",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Control biológico",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Desarrollo industrial",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Desarrollo sostenible",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Deslizamiento de tierra",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Deterioro ambiental",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Ecología",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Ecosistema",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Ecosistema acuático",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Efectos de las actividades humanas",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Eliminación de desechos",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Enfermedad transmisible",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Epidemiología",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Evaluación del impacto ambiental",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Gestión ambiental",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Hidrología",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Higiene ambiental",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Industrialización",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Legislación ambiental",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Lucha contra la contaminación",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Madera",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Material compuesto",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Medición hidrológica",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Medio ambiente",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Metal",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Plásticos",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Política ambiental",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Producto químico",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Recursos no renovables",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Recursos renovables",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Tratamiento de desechos",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Tratamiento del agua",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Virus",
+        "codigo": "AR",
+        "origen": "UNESCO",
+        "tematica": "Ambiente"
+    },
+    {
+        "descriptor": "Actividad cultural",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
     },
     {
         "descriptor": "Actividad de tiempo libre",
         "codigo": "C",
-        "categoria": "Deporte",
+        "origen": "UNESCO",
         "tematica": "Cultura"
     },
     {
-        "descriptor": "Actividad religiosa",
+        "descriptor": "Acústica",
         "codigo": "C",
-        "categoria": "Religión",
+        "origen": "UNESCO",
         "tematica": "Cultura"
     },
     {
-        "descriptor": "Actividades culturales",
+        "descriptor": "Análisis literario",
         "codigo": "C",
-        "categoria": "Cultura",
+        "origen": "UNESCO",
         "tematica": "Cultura"
     },
     {
-        "descriptor": "Actores sociales",
+        "descriptor": "Antropología cultural",
         "codigo": "C",
-        "categoria": "Comunicación",
+        "origen": "UNESCO",
         "tematica": "Cultura"
     },
     {
         "descriptor": "Aprendizaje en línea",
         "codigo": "C",
-        "categoria": "Comunicación",
+        "origen": "UNESCO",
         "tematica": "Cultura"
     },
     {
-        "descriptor": "Aproximaciones teóricas",
+        "descriptor": "Aprendizaje informal",
         "codigo": "C",
-        "categoria": "Comunicación",
+        "origen": "UNESCO",
         "tematica": "Cultura"
     },
     {
-        "descriptor": "Acta de reunión",
-        "codigo": "CO",
-        "categoria": "Cultura organizacional",
-        "tematica": "Cultura organizacional"
+        "descriptor": "Arquitectura",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Arquitectura interior",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Arte",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Artes escénicas",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Artes visuales",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Asignaturas de enseñanza básica",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Autosuficiencia",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Ayuda educativa",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Brecha digital",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Capital social",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Centro de formación",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Ciencia ficción",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Ciencias de la educación",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Civilización",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Comercio electrónico",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Competencia deportiva",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Comunicación",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Comunicación en grupo",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Comunicación interactiva",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Condiciones culturales",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Conferencia",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Conocimientos tradicionales",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Conservación de monumentos",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Construcción de viviendas",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Cooperación cultural",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Costumbres y tradiciones",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Cuento",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Cultura",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Danza tradicional",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Datos estadísticos",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Deporte",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Depósito legal",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Derecho de autor",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Diálogo intercultural",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Dinámica cultural",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Diseño arquitectónico",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Diseño de vivienda",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Diseño estructural",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Dispositivo de almacenamiento informático",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Drama",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Edificio",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Educación",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Educación de adultos",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Educación física",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Educación formal",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Educación y ocio",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Ensayo literario",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Entretenimiento",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Equipamiento periférico de ordenador",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Escritor",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Espacio de juegos",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Establecimientos de enseñanza",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Estilo literario",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Estrategias de comunicación",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Estudiante de primaria",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Estudiante de secundaria",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Estudio de caso",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Ética de la comunicación",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Etnología",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Evaluación de la educación",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Expresión artística",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Festival",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Festividad",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Financiación de la comunicación",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Financiación de la educación",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Financiación de la vivienda",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Finanzas culturales",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Flujo de noticias",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Formación",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Gestión de la información",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Gestión del conocimiento",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Gobernanza de internet",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Historia oral",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Identidad cultural",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Imagen de la marca",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Industria de la construcción",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Industria de la información",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Información pública",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Información y comunicación",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Ingeniería civil",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Ingeniería de la construcción",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Ingeniería sísmica",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Innovación cultural",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Instituciones de enseñanza",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Internet",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Investigación pedagógica",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Investigación y política de la comunicación",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Juego de interior",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Juegos olímpicos",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Legislación de las comunicaciones",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Lengua no escrita",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Leyenda",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Manifestaciones culturales",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Material didáctico",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Material escolar",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Medicina deportiva",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Medios de comunicación de masas",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Memoria colectiva",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Metodología",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Mitología",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Monumento",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Monumento histórico",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Música tradicional",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Novela",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Obras públicas",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Opinión pública",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Organización cultural",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Patrimonio documental",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Película",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Persuasión",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Planificación urbana",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Poesía",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Política científica",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Premio literario",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Procesamiento de la información",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Producción televisiva",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Programa de ordenador",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Programa de televisión",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Programa informático didáctico",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Propiedad intelectual",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Prosa",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Protección de datos",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Proverbio",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Publicidad televisada",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Radiodifusión",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Red de telecomunicaciones",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Relaciones públicas",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Renovación urbana",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Semiótica",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Técnica de comunicación",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Tecnología",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Tecnología de la información",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Telecomunicación",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Teleconferencia",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Telediario",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Televidente",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Televisión",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Televisión educativa",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Trabajo de campo",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Trabajo de investigación",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Tradición oral",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Transferencia de conocimientos",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Transferencia de información",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Valor cultural",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Vestuario",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Vivienda",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
+    },
+    {
+        "descriptor": "Vivienda alquilada",
+        "codigo": "C",
+        "origen": "UNESCO",
+        "tematica": "Cultura"
     },
     {
         "descriptor": "Actitud laboral",
         "codigo": "CO",
-        "categoria": "Cultura organizacional",
+        "origen": "UNESCO",
         "tematica": "Cultura organizacional"
     },
     {
         "descriptor": "Ambiente de trabajo",
         "codigo": "CO",
-        "categoria": "Cultura organizacional",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Ambiente laboral",
+        "codigo": "CO",
+        "origen": "UNESCO",
         "tematica": "Cultura organizacional"
     },
     {
         "descriptor": "Beneficios complementarios",
         "codigo": "CO",
-        "categoria": "Cultura organizacional",
-        "tematica": "Cultura organizacional"
-    },
-    {
-        "descriptor": "Bienestar de personal",
-        "codigo": "CO",
-        "categoria": "Cultura organizacional",
+        "origen": "UNESCO",
         "tematica": "Cultura organizacional"
     },
     {
         "descriptor": "Calidad de la vida laboral",
         "codigo": "CO",
-        "categoria": "Cultura organizacional",
+        "origen": "UNESCO",
         "tematica": "Cultura organizacional"
     },
     {
-        "descriptor": "Capacitación de personal",
+        "descriptor": "Capacitación",
         "codigo": "CO",
-        "categoria": "Cultura organizacional",
+        "origen": "UNESCO",
         "tematica": "Cultura organizacional"
     },
     {
         "descriptor": "Características directivas",
         "codigo": "CO",
-        "categoria": "Cultura organizacional",
-        "tematica": "Cultura organizacional"
-    },
-    {
-        "descriptor": "Clima laboral",
-        "codigo": "CO",
-        "categoria": "Cultura organizacional",
-        "tematica": "Cultura organizacional"
-    },
-    {
-        "descriptor": "Colaborador",
-        "codigo": "CO",
-        "categoria": "Cultura organizacional",
+        "origen": "UNESCO",
         "tematica": "Cultura organizacional"
     },
     {
         "descriptor": "Competencia profesional",
         "codigo": "CO",
-        "categoria": "Cultura organizacional",
+        "origen": "UNESCO",
         "tematica": "Cultura organizacional"
     },
     {
-        "descriptor": "Comunicación interna",
+        "descriptor": "Condiciones de empleo",
         "codigo": "CO",
-        "categoria": "Cultura organizacional",
+        "origen": "UNESCO",
         "tematica": "Cultura organizacional"
     },
     {
-        "descriptor": "Contextos históricos y temporales en los que nacen y operan los procesos de desarrollo y superación de la pobreza",
+        "descriptor": "Condiciones de trabajo",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Contratación",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Creación de empleos",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Cultura del trabajo",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Cultura organizacional",
+        "codigo": "CO",
+        "origen": "Temáticas FGS",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Desarrollo de la capacidad",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Desarrollo de recursos humanos",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Descripción del empleo",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Economía industrial",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Empleado",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Empleo a tiempo parcial",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Enfermedad profesional",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Ergonomía",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Estructura administrativa",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Estudio del trabajo",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Evaluación de los puestos",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Formación profesional",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Gerente",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Gestión de personal",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Jubilación",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Medicina preventiva",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Medida de seguridad",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Movilidad laboral",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Oportunidades de empleo",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Organización del trabajo",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Permiso",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Política de empleo",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Política laboral",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Política salarial",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Prevención de accidentes",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Productividad laboral",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Quinquenios",
+        "codigo": "CO",
+        "origen": "Documentos históricos",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Recursos humanos",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Salario",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Satisfacción en el trabajo",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Seguridad en el trabajo",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Selección de personal",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Servicio de salud",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Sinergia",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Sociología laboral",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Trabajador",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Trabajador especializado",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Trabajo",
+        "codigo": "CO",
+        "origen": "UNESCO",
+        "tematica": "Cultura organizacional"
+    },
+    {
+        "descriptor": "Acción comunitaria",
         "codigo": "DP",
-        "categoria": "Conceptos y contextos",
+        "origen": "UNESCO",
         "tematica": "Desarrollo y pobreza"
     },
     {
-        "descriptor": "Convergencia de sectores y poblaciones alrededor del desarrollo de un territorio",
+        "descriptor": "Agricultor",
         "codigo": "DP",
-        "categoria": "Territorios",
+        "origen": "UNESCO",
         "tematica": "Desarrollo y pobreza"
     },
     {
-        "descriptor": "Definiciones y conceptos sobre desarrollo: Estructuralismo",
+        "descriptor": "Ayuda alimentaria",
         "codigo": "DP",
-        "categoria": "Conceptos y contextos",
+        "origen": "UNESCO",
         "tematica": "Desarrollo y pobreza"
     },
     {
-        "descriptor": "Desarrollo",
+        "descriptor": "Calidad de vida",
         "codigo": "DP",
-        "categoria": "Conceptos y contextos",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Clase campesina",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Clase obrera",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Comunidad",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Condiciones de vida",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Cultura de la pobreza",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Demografía",
+        "codigo": "DP",
+        "origen": "UNESCO",
         "tematica": "Desarrollo y pobreza"
     },
     {
         "descriptor": "Desarrollo comunitario",
         "codigo": "DP",
-        "categoria": "Conceptos y contextos",
+        "origen": "UNESCO",
         "tematica": "Desarrollo y pobreza"
     },
     {
         "descriptor": "Desarrollo humano",
         "codigo": "DP",
-        "categoria": "Conceptos y contextos",
+        "origen": "UNESCO",
         "tematica": "Desarrollo y pobreza"
     },
     {
-        "descriptor": "Desarrollo local",
+        "descriptor": "Desarrollo participativo",
         "codigo": "DP",
-        "categoria": "Territorios",
+        "origen": "UNESCO",
         "tematica": "Desarrollo y pobreza"
     },
     {
-        "descriptor": "Desarrollo municipal",
+        "descriptor": "Desarrollo regional",
         "codigo": "DP",
-        "categoria": "Territorios",
+        "origen": "UNESCO",
         "tematica": "Desarrollo y pobreza"
     },
     {
-        "descriptor": "Actividad de tiempo libre",
-        "codigo": "EE",
-        "categoria": "Turismo",
-        "tematica": "Economía y empresa"
+        "descriptor": "Desarrollo rural",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
     },
     {
-        "descriptor": "Actividades deportivas y recreativas",
-        "codigo": "EE",
-        "categoria": "Turismo",
-        "tematica": "Economía y empresa"
+        "descriptor": "Desarrollo subregional",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
     },
     {
-        "descriptor": "Administración financiera",
-        "codigo": "EE",
-        "categoria": "Finanzas",
-        "tematica": "Economía y empresa"
+        "descriptor": "Desarrollo urbano",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
     },
     {
-        "descriptor": "Agricultura de subsistencia",
-        "codigo": "EE",
-        "categoria": "Conceptos y contextos",
-        "tematica": "Economía y empresa"
+        "descriptor": "Desarrollo y pobreza",
+        "codigo": "DP",
+        "origen": "Temáticas FGS",
+        "tematica": "Desarrollo y pobreza"
     },
     {
-        "descriptor": "Ahorro",
-        "codigo": "EE",
-        "categoria": "Finanzas",
-        "tematica": "Economía y empresa"
+        "descriptor": "Dinámicas territoriales",
+        "codigo": "DP",
+        "origen": "Temáticas FGS",
+        "tematica": "Desarrollo y pobreza"
     },
     {
-        "descriptor": "Alojamiento",
-        "codigo": "EE",
-        "categoria": "Turismo",
-        "tematica": "Economía y empresa"
+        "descriptor": "Discriminación",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
     },
     {
-        "descriptor": "Artes textiles",
-        "codigo": "EE",
-        "categoria": "Conceptos y contextos",
-        "tematica": "Economía y empresa"
+        "descriptor": "Distribución del ingreso",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
     },
     {
-        "descriptor": "Aproximaciones teóricas. Valores",
+        "descriptor": "Docente",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Economía regional",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Educación sanitaria",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Energía eléctrica",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Estilo de vida",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Estructura social",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Estructuralismo",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Exclusión social",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Hambre",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Higiene",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Indicadores de desarrollo",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Indicadores socioeconómicos",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Instalación deportiva",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Instalación recreativa",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Joven",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Madre trabajadora",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Mano de obra",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Mujer",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Necesidades básicas",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Niño",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Niño de la calle",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Nutrición",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Ocupación ilegal de una vivienda",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Parque",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Parque nacional",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Participación comunitaria",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Persona desplazada",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Población",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Población indígena",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Población rural",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Población urbana",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Pobre",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Pobreza",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Problema social",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Recursos de gas",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Remesas",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Riqueza",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Salud",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Saneamiento",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Seguridad social",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Sistemas sociales",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Trabajo social",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Unidad familiar",
+        "codigo": "DP",
+        "origen": "UNESCO",
+        "tematica": "Desarrollo y pobreza"
+    },
+    {
+        "descriptor": "Actividad religiosa",
         "codigo": "E",
-        "categoria": "Etica",
-        "tematica": "Ética"
-    },
-    {
-        "descriptor": "Bautizo",
-        "codigo": "E",
-        "categoria": "Vida sacramental",
+        "origen": "UNESCO",
         "tematica": "Ética"
     },
     {
         "descriptor": "Bien común",
         "codigo": "E",
-        "categoria": "Etica",
+        "origen": "Encuentro con Jesús",
         "tematica": "Ética"
     },
     {
         "descriptor": "Catolicismo",
         "codigo": "E",
-        "categoria": "Etica",
+        "origen": "UNESCO",
         "tematica": "Ética"
     },
     {
-        "descriptor": "Comunión",
+        "descriptor": "Ciencias del comportamiento",
         "codigo": "E",
-        "categoria": "Vida sacramental",
+        "origen": "UNESCO",
         "tematica": "Ética"
     },
     {
-        "descriptor": "Confirmación",
+        "descriptor": "Comportamiento de grupo",
         "codigo": "E",
-        "categoria": "Vida sacramental",
+        "origen": "UNESCO",
         "tematica": "Ética"
+    },
+    {
+        "descriptor": "Comportamiento religioso",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Comportamiento social",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Comunicación interpersonal",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Comunidad religiosa",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Conflicto religioso",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Conversatorios",
+        "codigo": "E",
+        "origen": "Encuentro con Jesús",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Creencia religiosa",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Cristianismo",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Culto",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Derecho a la vida",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Desarrollo de la personalidad",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Desarrollo mental",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Desarrollo moral",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Diferencia individual",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Dignidad humana",
+        "codigo": "E",
+        "origen": "Encuentro con Jesús",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Dinámica de grupo",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Discriminación religiosa",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Doctrina religiosa",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Edificio religioso",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Ética",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Experiencia religiosa",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Grupo religioso",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Iglesia",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Igualdad de oportunidades",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Inclusión social",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Instituciones religiosas",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Interacción social",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Investigación psicológica",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Libertad",
+        "codigo": "E",
+        "origen": "Encuentro con Jesús",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Libertad religiosa",
+        "codigo": "E",
+        "origen": "Encuentro con Jesús",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Matrimonio",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Metafísica",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Minoría religiosa",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Música religiosa",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Naturaleza humana",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Obra misionera",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Práctica religiosa",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Psicología",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Psicología del desarrollo",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Psicología social",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Reforma religiosa",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Relación Iglesia-Estado",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Relaciones entre grupos",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Relaciones interpersonales",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Religión",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Sacramento de comunión",
+        "codigo": "E",
+        "origen": "Encuentro con Jesús",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Sacramento de confirmación",
+        "codigo": "E",
+        "origen": "Encuentro con Jesús",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Sacramento del bautismo",
+        "codigo": "E",
+        "origen": "Encuentro con Jesús",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Santo",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Secta religiosa",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Socialización",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Templo",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Teología",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Valores morales",
+        "codigo": "E",
+        "origen": "UNESCO",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Valores sociales",
+        "codigo": "E",
+        "origen": "Encuentro con Jesús",
+        "tematica": "Ética"
+    },
+    {
+        "descriptor": "Administración financiera",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Agricultura",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Agricultura de subsistencia",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Agroindustria",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Ahorro",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Artes textiles",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Artesanía",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Artesano",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Asesoramiento",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Asociación",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Auditoría financiera",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Ayuda económica",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Balanza comercial",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Banco",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Capital",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Condiciones económicas",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Conservación de recursos",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Consumo",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Contabilidad",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Contabilidad de costes",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Control presupuestario",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Convenio colectivo",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Cooperativa",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Costes",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Crédito",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Desarrollo agrícola",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Desarrollo económico y social",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Desempleo",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Deuda",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Dinero",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Economía agraria",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Economía de la empresa",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Economía del transporte",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Economía medioambiental",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Economía rural",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Economía y empresa",
+        "codigo": "EE",
+        "origen": "Temáticas FGS",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Ecoturismo",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Empleo",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Empresa privada",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Empresa sin ánimo de lucro",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Empresario",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Estado financiero",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Estructura del mercado",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Estructura económica",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Estudio de mercado",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Estudio de viabilidad",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Evaluación económica",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Finanzas",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Finanzas y comercio",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Ganancia",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Gasto",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Gestión industrial",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Globalización",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Globalización económica",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Guía de viaje",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Industria",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Industria alimentaria",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Industria alimenticia",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Industria energética",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Industria hotelera",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Industria lechera",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Industria manufacturera",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Industria metalúrgica",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Industria pesquera",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Industria textil",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Industria turística",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Industria y educación",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Ingresos y riqueza",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Instalación turística",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Instituciones financieras",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Inversión",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Investigación social",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Libre comercio",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Liquidez",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Macroeconomía",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Marketing",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Mercado financiero",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Microcrédito",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Microempresa",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Minería",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Moneda",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Movimiento de capitales",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Oferta y demanda",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Organización",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Organización no gubernamental",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Organización privada",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Organización regional",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Organización social",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Patrimonio cultural",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Patrimonio industrial",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Pequeña empresa",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Pequeña industria",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Política arancelaria",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Política comercial",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Política cultural",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Política de precios",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Política económica",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Política financiera",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Política fiscal",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Política monetaria",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Préstamo",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Presupuesto",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Programas de desarrollo",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Proyecto de desarrollo",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Publicidad",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Radiodifusión comercial",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Recesión económica",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Recursos financieros",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Recursos pesqueros",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Reducción de costes",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Responsabilidad social",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Sector informal",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Sector terciario",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Seguro",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Servicios",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Sistema económico",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Televisión comercial",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Teoría económica",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Trabajador independiente",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Turismo",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Turismo cultural",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "Vacaciones",
+        "codigo": "EE",
+        "origen": "UNESCO",
+        "tematica": "Economía y empresa"
+    },
+    {
+        "descriptor": "20 de Julio",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Académico",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Acciones",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Acta de reunión",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Actas",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Actividades de recreación",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Activos",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Acuerdos",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Alivio de la pobreza",
+        "codigo": "FGS",
+        "origen": "UNESCO",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Almacenes de víveres",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Aniversario del Barrio",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Asambleas",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Aseo",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Auditorio al aire libre",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Axiología",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Balance general",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Balances",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Balances Sociales",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Banda musical",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Baños comunitarios",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Barrio Villa Javier",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Batallón infantil",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Benefactores",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Biblioteca",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Bienestar de Personal",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Biografía",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Boletines informativos",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Bolsa de Trabajo",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Botica",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Buenas costumbres",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Caja de Ahorros del Círculo de Obreros",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Caja de Ahorros para Enfermos",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Caja de Construcción de Casas",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Caja de Pensiones para la Vejez",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Caja de Socorros",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Caja dotal",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Cancha de fútbol",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Capacitación social",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Carbonera",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Casa matrimonial",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Celebraciones",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Centro de Acción Social",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Centro de Capacitación Popular CENCAP",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Centros Educativos Campoamor",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Chircal",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Círculo de Obreros",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Clases de catecismo",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Colaborador",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Colonia de vacaciones",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Colonias agricolas",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Comités",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Compañía de Jesús",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Conferencias",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Congregación de San Francisco Javier",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Consejos",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Contable",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Contratos",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Convenios",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Cooperativa de construcción",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Cooperativa de consumo",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Cooperativa Villa Javier",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Correspondencia",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Costurero de señoritas (Junta del ropero)",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Danza",
+        "codigo": "FGS",
+        "origen": "UNESCO",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Deberes religiosos",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Declamación",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Derecho mercantil",
+        "codigo": "FGS",
+        "origen": "UNESCO",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Día de la Raza",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Día de la Virgen",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Día del Trabajo",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Día Mariano",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Dimensión cultural",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Dimensión económica",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Dimensión política",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Dimensión social",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Directivos",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Discursos",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Disolución y liquidación de sociedades",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Documento público",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Documentos Base de Publicaciones",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Documentos de Constitución",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Documentos de Liquidación",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Documentos Legales",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Donaciones",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Dormitorio de Santa Elena",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Dormitorios u hospederías",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Educación para los adultos",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Ejercicios espirituales",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Ejes de actuación",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "El Jubileo",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Entrevistas",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Escuelas",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Escuelas diurnas y nocturnas",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Escuelas dominicales",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Espectáculos",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Estanque de natación",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Estatutos",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Estructura",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Estudios e Investigaciones",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Evangelización",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Excursiones",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Expresión corporal",
+        "codigo": "FGS",
+        "origen": "UNESCO",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Fiesta de la Familia",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Fiesta de la Madre",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Fiesta de San Francisco Javier",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Fiesta de Santa Ana",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Fiestas populares",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Fomento del hogar cristiano",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Funciones de cargos",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Fundación Grupo Social",
+        "codigo": "FGS",
+        "origen": "Temáticas FGS",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Fusión de empresas",
+        "codigo": "FGS",
+        "origen": "UNESCO",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Gestión de Nuevos Proyectos",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Gimnasia",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Granja agrícola",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Granja Santa Teresa",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Historia",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Homenajes",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Hospederías",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Identidad",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Identidad de marca",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Ignacio de Guzmán",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Imprenta",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Informe",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Informes",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Informes y balances",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Ingreso",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Inmuebles",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Institutos nocturnos",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Instrumento empresarial",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Instrumentos de intervención",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Intervención social",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Juegos de movimiento",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Lavaderos comunales",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Libretas de Ahorradores",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Licencias",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Líneas de intervención",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Listados",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Macroinflujo",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Manuales",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Manuscrito",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "María Casas Fajardo",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "María Cifuentes",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "María Teresa Vargas",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Marías",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Medicina prepagada",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Medios para la economía",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Medios para la instrucción",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Medios para la moralidad",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Medios para la religión",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Memorias",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Mensajes institucionales",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Misión",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Modelo de actuación",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Modelo de intervención",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Moralidad",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Música",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Mutualidades",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Naturaleza jurídica",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Nombramientos",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Nóminas",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Normal Santa Teresa",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Obituarios",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Obras de misericordia",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Padre Adán Londoño Rodas, S.J.",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Padre Alberto Jiménez Cadena, S.J.",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Padre Alberto Múnera Duque, S.J.",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Padre Álvaro Restrepo Lince, S.J.",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Padre Hernán Umaña, S.J.",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Padre José María Campoamor, S.J.",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Padre José María Posada, S.J.",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Participación al interior de la organización",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Patio de las Brujas",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Pensiones",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Peñon del Aserrío",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Piedad",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Pilas de agua",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Planeación",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Planos",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Políticas",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Preceptos de la Iglesia",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Prensa El Amigo",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Proclama",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Productos",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Programa de Bienestar Integral de las Marías",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Programas",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Programas sociales directos",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Promoción y ascensos",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Propósito",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Proveedores",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Proyectos",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Publicaciones",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Rafael Mena Gómez",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Recopilación de datos",
+        "codigo": "FGS",
+        "origen": "UNESCO",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Reglamentos",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Reseñas",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Resoluciones",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Restaurante escolar",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Resultados Financieros",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Reyes Magos",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Ropero escolar",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Sala cuna",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "San Francisco Javier",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Semana Santa",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Señoras protectoras",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Señoras y señores protectores",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Señores protectores",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Sipnosis Histórica",
+        "codigo": "FGS",
+        "origen": "Series documentales históricas",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Sociedades mutuales",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Subsidio",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Talleres",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Talleres nocturnos",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Teatro",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Testamento",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Tienda de suministro",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Veladas",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Vida de familia",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Vivienda social",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Zona de baile y recreación",
+        "codigo": "FGS",
+        "origen": "Documentos históricos",
+        "tematica": "Fundación Grupo Social"
+    },
+    {
+        "descriptor": "Análisis costes-beneficio",
+        "codigo": "FO",
+        "origen": "UNESCO",
+        "tematica": "Fortalecimiento de organizaciones"
+    },
+    {
+        "descriptor": "Análisis económico",
+        "codigo": "FO",
+        "origen": "UNESCO",
+        "tematica": "Fortalecimiento de organizaciones"
+    },
+    {
+        "descriptor": "Ayuda financiera",
+        "codigo": "FO",
+        "origen": "UNESCO",
+        "tematica": "Fortalecimiento de organizaciones"
+    },
+    {
+        "descriptor": "Contribución presupuestaria",
+        "codigo": "FO",
+        "origen": "UNESCO",
+        "tematica": "Fortalecimiento de organizaciones"
+    },
+    {
+        "descriptor": "Factor de producción",
+        "codigo": "FO",
+        "origen": "UNESCO",
+        "tematica": "Fortalecimiento de organizaciones"
+    },
+    {
+        "descriptor": "Financiación",
+        "codigo": "FO",
+        "origen": "UNESCO",
+        "tematica": "Fortalecimiento de organizaciones"
+    },
+    {
+        "descriptor": "Fortalecimiento de organizaciones",
+        "codigo": "FO",
+        "origen": "Temáticas FGS",
+        "tematica": "Fortalecimiento de organizaciones"
+    },
+    {
+        "descriptor": "Intensidad de mano de obra",
+        "codigo": "FO",
+        "origen": "UNESCO",
+        "tematica": "Fortalecimiento de organizaciones"
+    },
+    {
+        "descriptor": "Intensidad del capital",
+        "codigo": "FO",
+        "origen": "UNESCO",
+        "tematica": "Fortalecimiento de organizaciones"
+    },
+    {
+        "descriptor": "Productividad industrial",
+        "codigo": "FO",
+        "origen": "UNESCO",
+        "tematica": "Fortalecimiento de organizaciones"
+    },
+    {
+        "descriptor": "Recursos económicos",
+        "codigo": "FO",
+        "origen": "UNESCO",
+        "tematica": "Fortalecimiento de organizaciones"
+    },
+    {
+        "descriptor": "Subvención",
+        "codigo": "FO",
+        "origen": "UNESCO",
+        "tematica": "Fortalecimiento de organizaciones"
+    },
+    {
+        "descriptor": "Administración de empresas",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Administración del desarrollo",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Consejos Territoriales de Planeación",
+        "codigo": "GP",
+        "origen": "Temáticas FGS",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Dirección de proyecto",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Diseño de proyecto",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Ejecución de proyecto",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Encuesta",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Encuesta económica",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Encuesta social",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Estrategia de desarrollo",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Evaluación de proyecto",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Gestión",
+        "codigo": "GP",
+        "origen": "Temáticas FGS",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Gestión de empresas",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Norma social",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Organización y gestión",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Plan de desarrollo",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Plan de Ordenamiento Territorial POT",
+        "codigo": "GP",
+        "origen": "Temáticas FGS",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Planificación",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Planificación del desarrollo",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Planificación económica",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Planificación estratégica",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Planificación industrial",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Planificación regional",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Planificación rural",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Planificación social",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Planificiación de programas",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Prospectiva",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Relación de intercambio",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Responsabilidad",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Selección de proyecto",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Tecnología educacional",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Toma de decisiones",
+        "codigo": "GP",
+        "origen": "UNESCO",
+        "tematica": "Gestión"
+    },
+    {
+        "descriptor": "Administración de justicia",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Administración pública",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Aplicación de la ley",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Arbitraje",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Asistencia por desastre",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Ayuda humanitaria",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Bien cultural",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Bienestar social",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Cambio social",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Clase social",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Conflicto laboral",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Constitución",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Corrupción",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Corrupción política",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Crimen",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Criminología",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Debate en grupo",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Delincuencia",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Democracia",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derecho",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derecho a la justicia",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derecho a la privacidad",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derecho administrativo",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derecho al desarrollo",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derecho al trabajo",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derecho comparado",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derecho constitucional",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derecho de la familia",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derecho de la informática",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derecho de los contratos",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derecho del agua",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derecho internacional",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derecho laboral",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derecho natural",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derecho penal",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derecho público",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derecho territorial",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derechos civiles",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derechos conexos",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derechos de autor",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Derechos del niño",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Descentralización",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Doctrina política",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Dominio público",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Elecciones",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Equilibrio de poderes",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Estado",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Estatus jurídico",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Gestión de riesgos",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Gobierno electrónico",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Grupo social",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Historia constitucional",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Historia del derecho",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Instituciones políticas",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Jusrisprudencia",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Justicia",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Legislación",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Liberalismo",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Liderazgo",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Liderazgo político",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Marca registrada",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Migración",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Movimiento de protesta",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Movimiento estudiantil",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Movimiento juvenil",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Movimiento político",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Movimiento revolucionario",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Movimiento social",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Nacionalidad",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Orden público",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Participación cívica",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Participación cultural",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Participación estudiantil",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Participación juvenil",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Participación política",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Participación social",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Patente",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Piratería",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Poder político",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Política",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Política internacional",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Política migratoria",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Política pública",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Política social",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Política y gobierno",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Prevención del crimen",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Procedimiento legal",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Proceso de comunicación",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Propiedad artística",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Propiedad literaria",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Protección contra el robo",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Reforma jurídica",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Reforma social",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Régimen jurídico",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Regionalismo",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Responsabilidad civil",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Responsabilidad del Estado",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Sanción penal",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Seguridad del Estado",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Sentencia judicial",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Sistema electoral",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Sistema político",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Sistemas jurídicos",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Soberanía",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Sociedad civil",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Teoría legal",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Tribunal internacional",
+        "codigo": "P",
+        "origen": "UNESCO",
+        "tematica": "Política"
+    },
+    {
+        "descriptor": "Coexistencia pacífica",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Conflicto armado",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Conflicto político",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Conflicto social",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Consolidación de la paz",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Derecho a la calidad ambiental",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Derecho a la educación",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Derecho humanitario",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Derechos culturales",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Derechos de la mujer",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Derechos humanos",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Derechos sociales y económicos",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Desaparición forzada",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Desarme",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Desplazamiento de población",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Estadísticas demográficas",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Estadísticas económicas",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Investigación sobre la paz",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Justicia social",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Mantenimiento de la paz",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Paz",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Prisionero de guerra",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Restablecimiento de la paz",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Seguridad",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Solidaridad internacional",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Solución de conflictos",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Tráfico de estupefacientes",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Víctima de guerra",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Violación de los derechos humanos",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Violencia",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Violencia de género",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Violencia doméstica",
+        "codigo": "PD",
+        "origen": "UNESCO",
+        "tematica": "Paz"
+    },
+    {
+        "descriptor": "Agente interesado",
+        "codigo": "RA",
+        "origen": "UNESCO",
+        "tematica": "Redes y alianzas"
+    },
+    {
+        "descriptor": "Alianza",
+        "codigo": "RA",
+        "origen": "UNESCO",
+        "tematica": "Redes y alianzas"
+    },
+    {
+        "descriptor": "Alianza público privada",
+        "codigo": "RA",
+        "origen": "UNESCO",
+        "tematica": "Redes y alianzas"
+    },
+    {
+        "descriptor": "Ayuda al desarrollo",
+        "codigo": "RA",
+        "origen": "UNESCO",
+        "tematica": "Redes y alianzas"
+    },
+    {
+        "descriptor": "Ayuda multilateral",
+        "codigo": "RA",
+        "origen": "UNESCO",
+        "tematica": "Redes y alianzas"
+    },
+    {
+        "descriptor": "Ayuda vinculada",
+        "codigo": "RA",
+        "origen": "UNESCO",
+        "tematica": "Redes y alianzas"
+    },
+    {
+        "descriptor": "Cooperación internacional",
+        "codigo": "RA",
+        "origen": "UNESCO",
+        "tematica": "Redes y alianzas"
+    },
+    {
+        "descriptor": "Cooperación regional",
+        "codigo": "RA",
+        "origen": "UNESCO",
+        "tematica": "Redes y alianzas"
+    },
+    {
+        "descriptor": "Cooperación técnica",
+        "codigo": "RA",
+        "origen": "UNESCO",
+        "tematica": "Redes y alianzas"
+    },
+    {
+        "descriptor": "Diplomacia",
+        "codigo": "RA",
+        "origen": "UNESCO",
+        "tematica": "Redes y alianzas"
+    },
+    {
+        "descriptor": "Estudio de audiencia",
+        "codigo": "RA",
+        "origen": "UNESCO",
+        "tematica": "Redes y alianzas"
+    },
+    {
+        "descriptor": "Medición de audiencia",
+        "codigo": "RA",
+        "origen": "UNESCO",
+        "tematica": "Redes y alianzas"
+    },
+    {
+        "descriptor": "Medios sociales",
+        "codigo": "RA",
+        "origen": "UNESCO",
+        "tematica": "Redes y alianzas"
+    },
+    {
+        "descriptor": "Plataforma digital",
+        "codigo": "RA",
+        "origen": "UNESCO",
+        "tematica": "Redes y alianzas"
+    },
+    {
+        "descriptor": "Redes y alianzas",
+        "codigo": "RA",
+        "origen": "Temáticas FGS",
+        "tematica": "Redes y alianzas"
+    },
+    {
+        "descriptor": "Relaciones exteriores",
+        "codigo": "RA",
+        "origen": "UNESCO",
+        "tematica": "Redes y alianzas"
+    },
+    {
+        "descriptor": "Relaciones multilaterales",
+        "codigo": "RA",
+        "origen": "UNESCO",
+        "tematica": "Redes y alianzas"
+    },
+    {
+        "descriptor": "Servicio voluntario internacional",
+        "codigo": "RA",
+        "origen": "UNESCO",
+        "tematica": "Redes y alianzas"
     }
 ]
